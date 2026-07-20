@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#161b22"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0%" stop-color="#6f42c1"/>
+    <stop offset="100%" stop-color="#58a6ff"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+<circle cx="1050" cy="70" r="160" fill="#6f42c1" opacity="0.12"/>
+<circle cx="1130" cy="250" r="200" fill="#58a6ff" opacity="0.09"/>
+<path d="M70 220 H1130" stroke="url(#accent)" stroke-width="4" opacity="0.8"/>
+<text x="70" y="105" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Николай Зимин</text>
+<text x="70" y="165" fill="#a371f7" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">C# / .NET Developer</text>
+<text x="70" y="205" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="23">Desktop • SQL • Unity • Web</text>
+<g transform="translate(965,105)">
+  <rect x="0" y="0" width="125" height="90" rx="18" fill="#6f42c1" opacity="0.9"/>
+  <text x="62" y="62" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">C#</text>
+</g>
+</svg>
