@@ -52,7 +52,7 @@
 
 **Стек:** `C#` `Windows Forms` `SQL` `ClosedXML`
 
-> Ссылка на репозиторий будет добавлена после публикации проекта.
+> [Открыть репозиторий →](https://github.com/zimin-nikolay/Slipkife)
 
 ---
 
