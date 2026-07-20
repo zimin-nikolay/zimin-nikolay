@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Николай Зимин — C# / .NET Developer" width="100%" />
+<img src=".banner.svg" alt="Николай Зимин — C# / .NET Developer" width="100%" />
 
 # Николай Зимин
 
